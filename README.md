@@ -17,6 +17,8 @@ python3 api.py
 
 Example Analysis: http://localhost:8000/analyze?word=oqaluffik
 
+You can change the port by changing the port argument on the last line of code in api.py
+
 Output:
 ```
 {
