@@ -9,7 +9,7 @@ git clone https://github.com/Lillyliv7/Kalaallisut-Word-Analyzer-API
 cd Kalaallisut-Word-Analyzer-API
 python3 -m venv venv
 source venv/bin/activate
-pip3 install fastapi, uvicorn, hfst
+pip3 install fastapi uvicorn hfst
 python3 api.py
 ```
 
