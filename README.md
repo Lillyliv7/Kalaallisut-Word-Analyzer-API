@@ -2,7 +2,7 @@
 
 ## Installing & Running
 
-Requirements: Python 3, fastapi, uvicorn, hfst
+Requirements: Python 3.11 (Currently HFST does NOT work with the latest Python version), fastapi, uvicorn, hfst
 
 ```
 git clone https://github.com/Lillyliv7/Kalaallisut-Word-Analyzer-API
